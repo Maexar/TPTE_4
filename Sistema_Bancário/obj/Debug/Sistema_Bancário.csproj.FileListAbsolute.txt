@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\bin\Debug\Sistema_Bancário.exe.config
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\bin\Debug\Sistema_Bancário.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\bin\Debug\Sistema_Bancário.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\obj\Debug\Sistema_Bancário.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\obj\Debug\Sistema_Bancário.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\obj\Debug\Sistema_Bancário.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE_4\Sistema_Bancário\obj\Debug\Sistema_Bancário.pdb

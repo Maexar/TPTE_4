@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\tpte_4\\sistema_banc\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|solutionrelative:sistema_banc\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\sistema_banc\u00E1rio\\classes\\cli_endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|solutionrelative:sistema_banc\u00E1rio\\classes\\cli_endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\sistema_banc\u00E1rio\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|solutionrelative:sistema_banc\u00E1rio\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\sistema_banc\u00E1rio\\classes\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15408853-9D15-4226-891B-D423765A3908}|Sistema_Banc\u00E1rio\\Sistema_Banc\u00E1rio.csproj|solutionrelative:sistema_banc\u00E1rio\\classes\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cli_Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\Cli_Endereco.cs",
+              "RelativeDocumentMoniker": "Sistema_Banc\u00E1rio\\Classes\\Cli_Endereco.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\Cli_Endereco.cs",
+              "RelativeToolTip": "Sistema_Banc\u00E1rio\\Classes\\Cli_Endereco.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:42:48.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Sistema_Banc\u00E1rio\\Classes\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\ContaBancaria.cs",
+              "RelativeToolTip": "Sistema_Banc\u00E1rio\\Classes\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:23:10.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema_Banc\u00E1rio\\Classes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Classes\\Cliente.cs",
+              "RelativeToolTip": "Sistema_Banc\u00E1rio\\Classes\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:32:02.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_Banc\u00E1rio\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\TPTE_4\\Sistema_Banc\u00E1rio\\Program.cs",
+              "RelativeToolTip": "Sistema_Banc\u00E1rio\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:31:21.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
